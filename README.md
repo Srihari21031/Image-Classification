@@ -1,4 +1,4 @@
-# classification-of-cifar10-images
+# multiclass classification of images
 classifying images of cifar-10 using using CNNs 
 CIFAR-10 is a dataset that consists of several images divided into the following 10 classes:
 
